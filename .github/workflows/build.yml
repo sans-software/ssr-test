@@ -37,6 +37,7 @@ jobs:
         yarn install
         yarn build
         yarn test
+        pwd
       env:
         CI: true
     - name: SonarCloud Scan
