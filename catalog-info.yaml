@@ -6,6 +6,7 @@ metadata:
   annotations:
     github.com/project-slug: sans-software/ssr-test
     backstage.io/techdocs-ref: dir:.
+    sonarqube.org/project-key: sans-software_ssr-test
 spec:
   type: website
   lifecycle: experimental
